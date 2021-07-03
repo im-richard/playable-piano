@@ -1,10 +1,22 @@
-# Playable Piano
+# Playable Piano > Server
 
-## About
-This addon was originally developed by [MacDGuy](https://github.com/macdguy/playablepiano).
-At the time of writing this; the addon has not received updates in awhile.
+## Install
+- Download files from this repo on Github.
+- Extract the downloaded zip to your computer
+- Create a new folder on your gmod server called piano
+  - Example: garrysmod/addons/piano/
+- Upload the extracted files to the newly created folder on your server. 
 
-A few minor issues have shown up since then, so this is simply another version of Playable Piano, but with fixes, as well as the source files for the website so that users can host the files themselves.
+  - Ensure you are uploading the files to match the following file structure:
+  - 📁 garrysmod
+    - 📁 addons
+      - 📁 piano
+        - 📁 lua
+        - 📁 resource
+        - 📁 materials
 
-## Updates
-I released this version just to keep the addon going since it is known and loved by many. I really have no plans on doing massive rewrites to the addon, and am only keeping the heartbeat of the addon pumping.
+- Restart your server
+- Connect to your gmod server and spawn in. 
+- Press "**Q**" to open the spawn menu, click the **Entities** tab, and locate the Piano.
+- Select the Piano to spawn it in on the map.
+- Sit on the piano by walking up and pressing "**E**"
