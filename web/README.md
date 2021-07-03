@@ -1,10 +1,17 @@
-# Playable Piano
+# Playable Piano > Web
 
-## About
-This addon was originally developed by [MacDGuy](https://github.com/macdguy/playablepiano).
-At the time of writing this; the addon has not received updates in awhile.
+## Install
+- Download files from this repo on Github.
+- Extract the downloaded zip to your computer
+- Connect to your webhost S/FTP (contact your host if you are unsure).
+- Within your webhosts FTP; create a new sub-folder in your websites parent folder (sometimes called public_html) called **piano**
+  - Example: /home/username/public_html/piano
+- Enter the newly created subfolder in FTP.
+- Upload the contents of the downloaded zip's **web** folder to the new subfolder created on your web server.
+- Once uploaded; test your website by going to:
+  - https://yourdomain.com/piano/
+  - https://yourdomain.com/piano/index.php
+- If you see the new webpage; you did it correctly.
 
-A few minor issues have shown up since then, so this is simply another version of Playable Piano, but with fixes, as well as the source files for the website so that users can host the files themselves.
-
-## Updates
-I released this version just to keep the addon going since it is known and loved by many. I really have no plans on doing massive rewrites to the addon, and am only keeping the heartbeat of the addon pumping.
+## Change Site URL in Piano Addon
+In order for players to use your newly hosted website, you need to edit default URL used by the piano addon.
