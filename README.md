@@ -12,7 +12,7 @@ Two folders are provided.
 |          |                                                                                                                    |
 |----------|--------------------------------------------------------------------------------------------------------------------|
 | 📁 Server | All files in this directory should be uploaded to your Garry's Mod server.                                         |
-| 📁 Web    | Contain website / music notes that players see when activating the piano. Upload them to a webhost. |
+| 📁 Web    | Contains website / sheet music that players see when activating the piano. Upload them to a webhost. |
 
 For further instructions; view the README in each of the two folders.
 
