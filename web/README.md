@@ -16,13 +16,6 @@
   - If you see the new webpage; you did it correctly.
   - If not, ensure you are uploading to the correct folder on your webserver. If you have issues, contact your hosting provider for further instructions.
 
-## In-Game Keys
-| Key   | Desc                           |
-|-------|--------------------------------|
-| E     | Activate Piano                 |
-| TAB   | Leave Piano                    |
-| Space | Open / Close sheet music       |
-| CTRL  | Toggle Basic and Advanced mode |
 
 ## Change Site URL in Piano Addon
 In order for players to view sheet music on your newly hosted website, you need to edit default URL used by the piano addon.
@@ -31,6 +24,7 @@ In order for players to view sheet music on your newly hosted website, you need 
 - Change the string for the URL to your own website.
   - Ex: https://yourdomain.com/piano/
 - Note: Do NOT change **ENT.cfg.WebURLAdv** unless you know what you are doing.
+
 
 ## Adding More Sheet Music
 You can find a wide variety of music by visiting https://virtualpiano.net/.
