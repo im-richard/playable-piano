@@ -1,0 +1,19 @@
+Mad World
+
+O s o O i o Y y
+O s o O i o O P
+i i O O i i s s s O
+P P P o P P P O o i (repeat 4)
+i i O O i i s s s O
+P P P o P P P O o i
+i i O O i i s s s O
+P P P o P P P O o i
+i i O O i i s s s O
+P P P o P P P O o i
+i i O O s s d P
+P d d P P i i O O s s
+d P P P d d P P i
+i O O s s d P P d d P P i
+i O O s d P P P d d P P
+O i
+O i

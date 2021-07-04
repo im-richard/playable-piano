@@ -1,0 +1,22 @@
+Time | Inception
+
+[6et] 6 6 6 [3ro] 3 3 3 [5wr] 5 5 5 {2eI} 2 2 2
+[6et] 6 6 6 [10wr] 1 1 1 [59wr] 5 5 5 {29Q} 2 2 2
+[680t] 6 6 6 [30wro] 3 3 3 [57wr] 5 5 5 {29QI} 2 2 2
+[et680] 6 6 6 [180wr] 1 1 1 [59wr] 5 5 5 {29QI} 2 2 2
+[68e] 7 6 [350w] Q w [57wr] 6 7 {269Q} 0 Q
+[6etps] r e [30wuk] I o [5wrya] e r {29Ip} u I
+[6ets] r e 0 [30wro] [5wra] e r y {29pdG}
+[6etps] r e 0 {18etuoa} e w 0 [5wra] e r y {29dG}
+[60esl] [ra] [ep] [0u] [30wh] [QI] [wo] [ep] 
+[5wak] [ep] [9y] [0u] {29GI} [0u] [QI] [ep]
+[60esl] [ra] [ep] [0uoa] [1afhk] [ep] [wo] [ep] 
+[5wrya] [ep] [wo] [odkz] {29GzC} [0u] [9y] [0u]
+[6esfl] [ak] [uf] [37ofh] [IG] [ra]
+[5wak] [pj] [yd] {269IG} [uf] [ep]
+[60sfl] [sl] [uf] [15ahk] [oh] [ts]
+[59rya] [pj] [yd] {69GC} [uf] [ep]
+[6ps] [jl] [30h] [af]
+[5oa] [dk] {2yG} [fhk]
+[psjl] [tafk] [oafk] [ypd]
+[ps] [uh] [oa] {yG} [ps] [tk] [oa] {ydfG}
