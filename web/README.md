@@ -15,3 +15,7 @@
 
 ## Change Site URL in Piano Addon
 In order for players to use your newly hosted website, you need to edit default URL used by the piano addon.
+- Open **server\lua\entities\gmt_instrument_base\shared.lua**
+- Locate the line **ENT.cfg.WebURL**
+- Change the string for the URL to your own website.
+-   Note: Do NOT change **ENT.cfg.WebURLAdv** unless you know what you are doing.
