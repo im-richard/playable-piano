@@ -17,4 +17,4 @@ Two folders are provided.
 For further instructions; view the README in each of the two folders.
 
 ## Updates
-I released this version just to keep the addon going since it is known and loved by many. I really have no plans on doing massive rewrites to the addon, and am only keeping the heartbeat of the addon pumping.
+I released this version just to keep the addon going since it is known and loved by many. I am debating on a rewrite of the entire addon, but that will be in the future.
