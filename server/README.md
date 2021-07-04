@@ -20,3 +20,12 @@
 - Press "**Q**" to open the spawn menu, click the **Entities** tab, and locate the Piano.
 - Select the Piano to spawn it in on the map.
 - Sit on the piano by walking up and pressing "**E**"
+
+## In-Game Keys
+| Key               | Desc                           |
+|-------------------|--------------------------------|
+| E                 | Activate Piano                 |
+| TAB               | Leave Piano                    |
+| Space             | Open / Close sheet music       |
+| CTRL              | Toggle Basic and Advanced mode |
+| Left/Right Arrows | Change sheet music page        |
